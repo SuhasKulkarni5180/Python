@@ -3,7 +3,9 @@
 Spyder Editor
 
 This is a temporary script file.
+@author : Suhas Kulkarni
 """
+
 # This program converts miles to Kms
 
 print("Convert miles to Kms")

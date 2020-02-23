@@ -2,7 +2,7 @@
 """
 Created on Sun Feb 23 13:04:21 2020
 
-@author: user
+@author: Suhas Kulkarni
 """
 
 # This function identify if provided string/number is palindrome or not
